@@ -1,7 +1,7 @@
 on: [push]
 
 jobs:
-  upload_file:
+  obs_helper:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
