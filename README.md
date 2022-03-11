@@ -1,7 +1,7 @@
 # Huawei obs-helper
-obs-helper action用于访问管理华为云对象存储服务（[Object Storage Service，OBS](https://www.huaweicloud.com/product/obs.html)），您可以使用该工具对OBS进行上传文件/文件夹、下载文件/文件夹。
+obs-helper action用于访问管理华为云对象存储服务（[Object Storage Service，OBS](https://www.huaweicloud.com/product/obs.html)），您可以使用该action对OBS进行上传文件/文件夹、下载文件/文件夹。
 
-## 上传文件用法
+## **上传文件用法**
 假设本地文件夹的格式如下：
 ```text
 └── src1
