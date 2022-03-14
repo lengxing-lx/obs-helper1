@@ -67,12 +67,12 @@ jobs:
 假设bucket-test桶内包含如下对象：
 ```text
 test1.txt
-    └── src1
-        ├── src2
-            └── test2.txt
-            └── test3.txt
-        ├── src3
-            └── test4.txt
+src1
+├── src2
+    └── test2.txt
+    └── test3.txt
+├── src3
+    └── test4.txt
 ```
 
 ### 下载文件
