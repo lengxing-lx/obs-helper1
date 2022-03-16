@@ -29,7 +29,7 @@ jobs:
           region: cn-north-4
           bucket_name: hdn-github-action
           local_file_path: ${{ github.workspace }}
-          obs_file_path: test.txt
+          obs_file_path: test1.txt
           operation_type: download
       - name: List files in the repository
         run: |
