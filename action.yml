@@ -25,8 +25,8 @@ inputs:
     description: "The file/folder path of obs bucket"
     required: true  
 branding:
-  icon: 'lock'
-  color: 'blue'
+  icon: 'cloud'
+  color: 'red'
 runs:
   using: 'docker'
   image: 'Dockerfile'
