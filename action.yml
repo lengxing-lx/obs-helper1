@@ -1,5 +1,5 @@
 # action.yml
-name: 'Huawei OBS Helper Test'
+name: 'Huawei OBS Helper Test1'
 description: 'Upload/Download files or folders to Huawei OBS'
 inputs:
   access_key:
